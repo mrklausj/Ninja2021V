@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja2021V", "Ninja2021V.csproj", "{14692107-965A-4C15-BD33-D0E2C0394DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14692107-965A-4C15-BD33-D0E2C0394DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14692107-965A-4C15-BD33-D0E2C0394DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14692107-965A-4C15-BD33-D0E2C0394DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14692107-965A-4C15-BD33-D0E2C0394DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CADEC6FA-6540-455C-8E80-BA6129746603}
+	EndGlobalSection
+EndGlobal
